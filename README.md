@@ -1,11 +1,11 @@
-# Code273
-Code for the submission 273
+# Code304
+Code for the submission 304
 
 The dependency can be found in `environment.yml`. To create the conda environment:
 
 `conda env create -f environment.yml`
 
-`conda activate code273`
+`conda activate code304`
 
 We randomly sampled 64 images for testing the accuracy and attack success rate.
 
