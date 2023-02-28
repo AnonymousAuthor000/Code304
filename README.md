@@ -20,3 +20,4 @@ To evaluat the accuracy and the attack success of the converted PyTorch model:
 `
 bash attack.sh
 `
+Note that this requires you have a working NVIDIA GPU and driver
